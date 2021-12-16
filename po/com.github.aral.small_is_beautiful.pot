@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.aral.small_is_beautiful package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.aral.small_is_beautiful\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-16 17:45+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Command-line options.
+#. If your app takes command-line arguments, you can specify it
+#. using the set_option_context_parameter_string () method.
+#. (The option context parameter string is displayed next to the
+#. list of options on the first line of the --help screen.)
+#. Display the app description as the option context summary.
+#. The option context summary is displayed above the set of options
+#. on the --help screen.
+#: src/Application.vala:35 data/small_is_beautiful.appdata.xml.in:15
+msgid "This app shows off Watson"
+msgstr ""
+
+#. Display the copyright notice as the option context description.
+#. The option context description is displayed below the set of options
+#. on the --help screen.
+#: src/Application.vala:40
+msgid ""
+"Copyright ⓒ 2021-present Aral Balkan. Licensed under GNU GPL version 3.0."
+msgstr ""
+
+#: src/Application.vala:47
+msgid "Show version number and exit"
+msgstr ""
+
+#: data/small_is_beautiful.desktop.in:5
+#: data/small_is_beautiful.appdata.xml.in:12
+msgid "Small is Beautiful"
+msgstr ""
+
+#: data/small_is_beautiful.desktop.in:6
+msgid "Test App"
+msgstr ""
+
+#: data/small_is_beautiful.desktop.in:7
+#: data/small_is_beautiful.appdata.xml.in:13
+msgid "Show off Watson"
+msgstr ""
+
+#: data/small_is_beautiful.desktop.in:10
+msgid "com.github.aral.small_is_beautiful"
+msgstr ""
+
+#: data/small_is_beautiful.desktop.in:12
+msgid "show;off;watson"
+msgstr ""
+
+#: data/small_is_beautiful.appdata.xml.in:17
+msgid "Aral Balkan"
+msgstr ""
