@@ -1,4 +1,4 @@
 src/Application.vala
 src/MainWindow.vala
-data/{GITHUB.APP}.desktop.in
-data/{GITHUB.APP}.appdata.xml.in
+data/small_is_beautiful.desktop.in
+data/small_is_beautiful.appdata.xml.in

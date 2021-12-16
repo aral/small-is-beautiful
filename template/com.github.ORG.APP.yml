@@ -1,10 +1,10 @@
-app-id: com.github.{GITHUB.ORG}.{GITHUB.APP}
+app-id: com.github.aral.small_is_beautiful
 
 runtime: io.elementary.Platform
 runtime-version: '6'
 sdk: io.elementary.Sdk
 
-command: com.github.{GITHUB.ORG}.{GITHUB.APP}
+command: com.github.aral.small_is_beautiful
 
 finish-args:
   - '--share=ipc'
@@ -15,7 +15,7 @@ finish-args:
   - '--system-talk-name=org.freedesktop.Accounts'
 
 modules:
-  - name: {GITHUB.APP}
+  - name: small_is_beautiful
     buildsystem: meson
     sources:
       - type: dir

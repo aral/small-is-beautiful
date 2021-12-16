@@ -1,8 +1,8 @@
-# {APP.NAME} web site source
+# Small is Beautiful web site source
 
-[![{APP.NAME} logo](128.svg)](https://{GITHUB.ORG.ORIGINAL}.github.io/{GITHUB.APP.ORIGINAL})
+[![Small is Beautiful logo](128.svg)](https://aral.github.io/small-is-beautiful)
 
-## [Visit the site.](https://{GITHUB.ORG.ORIGINAL}.github.io/{GITHUB.APP.ORIGINAL)
+## [Visit the site.](https://aral.github.io/{GITHUB.APP.ORIGINAL)
 
 ## Features:
 
